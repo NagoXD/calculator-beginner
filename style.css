@@ -1,0 +1,63 @@
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+
+.containere2{
+  width: 250px;
+  height: 200px;
+  background-color: rgba(253, 248, 248, 0.771);
+  position: relative;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+
+}
+.input-navbar input {
+ width: 200px;
+ height: 30px;
+ border-radius: 12px;
+ border: none;
+ outline: none;
+ margin: 20px;
+ font-size: 20px;
+ color: #7daafd;
+ box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.btn{
+  position: relative;
+  top: 10px;
+}
+
+.btn button{
+  background-color: rgb(115, 146, 204);
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+  box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: .2s;
+}
+
+.btn button:hover {
+  background-color: #eee;
+  transition: .2s;
+  font-size: 22px;
+}
+.btne1{
+  position: relative;
+  left: -4px;
+}
+
+.btne2{
+  position: relative;
+  left: -4px;
+}
+
+
+
